@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gaston.dev/categories/</loc>
+    <loc>https://www.gaston.dev/about/</loc>
+    <lastmod>2020-08-30T15:35:54-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gaston.dev/</loc>
+    <lastmod>2020-08-30T15:30:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gaston.dev/hello-world/</loc>
+    <lastmod>2020-08-30T15:30:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gaston.dev/posts/</loc>
+    <lastmod>2020-08-30T15:30:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gaston.dev/categories/</loc>
   </url>
   
   <url>

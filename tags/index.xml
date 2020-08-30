@@ -10,5 +10,19 @@
 	<atom:link href="https://www.gaston.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
+    
+    
+    <item>
+      <title>Hello, World!</title>
+      <link>https://www.gaston.dev/hello-world/</link>
+      <pubDate>Sun, 30 Aug 2020 15:30:16 -0500</pubDate>
+      
+      <guid>https://www.gaston.dev/hello-world/</guid>
+      <description>Welcome to my tech blog! here I&amp;rsquo;ll be writing about tech topics that I&amp;rsquo;m interested in. I&amp;rsquo;ll try to avoid touching personal stuff since I want to have my career stuff separated from my personal stuff. This blog is intended to be used by me, to reference stuff that I learnt and forgot and to have an online presence that future employers can see.
+Nevertheless, if you are a geek like me I hope the blog is interesting to you!</description>
+    </item>
+    
+    
   </channel>
 </rss>
